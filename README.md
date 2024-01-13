@@ -1,8 +1,42 @@
-# React + Vite
+# REACT TIC TAC TOE GAME 🎮 WITH MOVES HISTORY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deployment
 
-Currently, two official plugins are available:
+### [Deployed at Vercel 🔗](https://react-tic-tac-toe-game-with-history.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Video Preview
+
+
+
+## Description
+
+### A simple tic-tac-toe game using ReactJS and Tailwind CSS with the following features:
+- 🔄 History of the moves gets saved.
+- ⏪ Can go back to any previous move.
+- 🔄 Can restart the game at any point.
+- 👀 Can see the current player's turn.
+- 🏆 Can see the winner of the game.
+- 🤝 Can see the draw message if no one wins.
+- 📱 Mobile responsive.
+
+## Local Setup
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/irahuldutta02/react-tic-tac-toe-game.git
+cd react-tic-tac-toe-game
+```
+### 2. Install dependencies
+
+```bash
+npm install
+```
+### 3. Start the development server
+
+```bash
+npm start
+```
+
+## Tech Stack
+- React
+- Tailwind CSS
