@@ -6,7 +6,7 @@
 
 ## Video Preview
 
-
+https://github.com/irahuldutta02/react-tic-tac-toe-game/assets/78687135/847be105-5904-473e-a38b-2e8d18fb3527
 
 ## Description
 
